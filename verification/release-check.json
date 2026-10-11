@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-11",
+  "verified": "extracted release in isolated temporary directory",
+  "clean_start": true,
+  "sample_rows": 56,
+  "diagnosis_findings": 4,
+  "lessons": 6,
+  "default_simulation_purchases": 29,
+  "initial_practice_events": 0,
+  "real_ad_or_model_requests": false
+}

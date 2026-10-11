@@ -1,0 +1,49 @@
+{
+  "passed": true,
+  "date": "2026-10-11",
+  "checks": [
+    "beginner_home_six_lessons",
+    "wrong_answer_feedback_no_false_completion",
+    "six_quizzes_and_reload_persistence",
+    "no_diagnosis_events_means_zero_counts",
+    "run_default_simulation",
+    "budget_native_validation",
+    "single_variable_comparison",
+    "practice_markdown_download",
+    "simulation_json_download",
+    "simulation_and_notes_restore",
+    "multi_variable_warning",
+    "same_config_deterministic_feedback",
+    "zero_purchase_cpa_is_unavailable",
+    "request_failure_and_button_recovery",
+    "four_findings_with_evidence_and_sources",
+    "diagnosis_json_download",
+    "optional_model_disabled_without_credentials",
+    "incomplete_attribution_window_withholds_diagnosis",
+    "window_sql_matches_selected_maturity_scope",
+    "six_metrics_four_campaigns",
+    "csv_duplicate_does_not_duplicate_dataset",
+    "bad_csv_error_feedback",
+    "three_creative_drafts_and_experiment_export",
+    "creative_input_is_escaped_text",
+    "four_sql_business_questions",
+    "sql_mutation_rejected",
+    "sql_empty_result_guidance",
+    "knowledge_search_and_empty_state",
+    "all_seven_pages_no_overflow_four_viewports",
+    "keyboard_skip_navigation",
+    "direct_section_link",
+    "no_javascript_errors"
+  ],
+  "desktop": [
+    1440,
+    1040
+  ],
+  "viewports_tested": [
+    1440,
+    768,
+    390,
+    360
+  ],
+  "note": "自动化浏览器自测，使用临时数据库、独立浏览器上下文；不代表真实用户或真实投放结果。"
+}
